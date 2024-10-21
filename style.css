@@ -1,4 +1,17 @@
-.A_Pranta_vesga {
+.prantaVesga {
+    width: 22%;
     text-align: center;
-    width: 10%;
+}
+body {
+    height: 99%;
+}
+
+#logo {
+    width: 30px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
